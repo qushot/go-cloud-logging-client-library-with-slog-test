@@ -1,0 +1,1 @@
+# go-cloud-logging-client-library-with-slog-test
